@@ -1,0 +1,3 @@
+[submodule "modules/gd_fastnoise2"]
+	path = modules/gd_fastnoise2
+	url = https://github.com/zak-grumbles/gd_fastnoise2
